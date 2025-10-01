@@ -1,0 +1,12 @@
+[01-Oct-2025 17:02:42 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$_SERVER", expecting ";" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 10
+[01-Oct-2025 17:02:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$_SERVER", expecting ";" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 10
+[01-Oct-2025 17:03:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$_SERVER", expecting ";" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 10
+[01-Oct-2025 17:03:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$_SERVER", expecting ";" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 10
+[01-Oct-2025 17:03:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$_SERVER", expecting ";" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 10
+[01-Oct-2025 17:03:34 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$_SERVER", expecting ";" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 10
+[01-Oct-2025 17:03:35 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$_SERVER", expecting ";" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 10
+[01-Oct-2025 17:03:35 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$_SERVER", expecting ";" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 10
+[01-Oct-2025 17:03:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$_SERVER", expecting ";" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 10
+[01-Oct-2025 17:03:40 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$_SERVER", expecting ";" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 10
+[01-Oct-2025 17:03:41 Europe/Berlin] PHP Parse error:  syntax error, unexpected variable "$_SERVER", expecting ";" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 10
+[01-Oct-2025 17:06:05 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
