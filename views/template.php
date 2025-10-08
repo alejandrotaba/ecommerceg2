@@ -61,6 +61,7 @@
 <script src="views/sources/plugins/jdSlider/jdSlider.js"></script>
 
 <script src="views/sources/js/slide.js"></script>
+<script src="views/sources/js/product.js"></script>
 
 
 
