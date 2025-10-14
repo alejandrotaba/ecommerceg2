@@ -155,6 +155,7 @@ footer.li{
     background: #47bac1;
 }
 
-
-
+.login-page, .register-page {
+    height: 70vh !important;
+}
 

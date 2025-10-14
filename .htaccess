@@ -1,0 +1,15 @@
+Options All -indexes
+Options -Multiviews
+
+RewriteEngine On
+RewriteCond %(REQUEST-FILENAME) !-f
+RewriteRule ^ index.php [QSA,L]
+
+
+
+
+
+
+
+
+

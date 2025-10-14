@@ -99,3 +99,50 @@
 [09-Oct-2025 22:22:55 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
 [09-Oct-2025 22:30:10 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
 [09-Oct-2025 23:32:11 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 19:33:24 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 20:00:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ")" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 44
+[14-Oct-2025 20:00:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ")" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 44
+[14-Oct-2025 20:00:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ")" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 44
+[14-Oct-2025 20:00:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ")" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 44
+[14-Oct-2025 20:00:40 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ")" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 44
+[14-Oct-2025 20:03:05 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
+[14-Oct-2025 20:03:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
+[14-Oct-2025 20:03:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
+[14-Oct-2025 20:03:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
+[14-Oct-2025 20:03:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
+[14-Oct-2025 20:03:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
+[14-Oct-2025 20:04:04 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
+[14-Oct-2025 20:04:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
+[14-Oct-2025 20:05:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
+[14-Oct-2025 20:09:40 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:09:42 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:10:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:17:32 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:31:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:31:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:31:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:31:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:36:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:36:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:36:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:36:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:36:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:38:27 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:38:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:38:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
+[14-Oct-2025 20:57:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 20:57:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\navbar.php on line 15
+[14-Oct-2025 20:57:57 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 20:57:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\navbar.php on line 15
+[14-Oct-2025 21:03:56 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 21:04:36 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 21:10:30 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 21:41:24 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 21:42:10 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 21:52:29 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 22:04:31 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 22:42:27 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 22:49:14 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 23:08:13 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 23:15:02 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[14-Oct-2025 23:15:02 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
