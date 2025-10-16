@@ -1,306 +1,106 @@
-[02-Oct-2025 20:07:42 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[02-Oct-2025 20:19:24 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[02-Oct-2025 20:19:34 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[02-Oct-2025 20:19:38 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[02-Oct-2025 20:25:22 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[02-Oct-2025 20:48:45 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[02-Oct-2025 22:22:38 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[02-Oct-2025 22:26:51 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[02-Oct-2025 22:27:34 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[02-Oct-2025 22:27:52 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[02-Oct-2025 22:36:40 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 19:21:12 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 19:21:25 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 19:27:14 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 19:27:27 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 19:29:27 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 19:30:17 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 19:30:59 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 19:46:11 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 19:47:41 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 19:50:42 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 20:37:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:04:02 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:16:30 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:17:13 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:18:52 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:22:38 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:22:41 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:23:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:23:43 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:26:37 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:33:07 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:33:09 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:33:10 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:34:55 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:34:56 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:34:56 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:34:57 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:34:57 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:34:57 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:35:42 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:36:16 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 21:42:52 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 22:05:17 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 22:08:52 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 22:09:15 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 22:21:39 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 22:23:00 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[07-Oct-2025 22:36:31 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 13:44:30 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 13:47:56 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 13:52:00 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 13:52:04 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 14:11:36 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 14:11:51 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 14:14:02 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 14:14:20 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 14:15:41 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 14:21:51 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 15:25:32 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 15:29:37 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:25:27 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:26:36 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:27:33 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:27:59 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:28:40 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:28:45 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:28:46 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:28:46 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:28:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:28:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:28:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:28:49 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:29:41 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:29:43 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:29:44 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:29:44 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:29:45 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:29:45 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:29:46 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:29:46 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:29:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:29:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:30:53 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:31:06 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 16:32:12 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 17:37:55 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 22:31:20 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 22:33:24 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 22:33:31 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[08-Oct-2025 22:33:44 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[09-Oct-2025 19:09:02 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[09-Oct-2025 19:48:19 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[09-Oct-2025 19:52:27 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[09-Oct-2025 21:52:16 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[09-Oct-2025 22:07:37 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[09-Oct-2025 22:09:34 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[09-Oct-2025 22:16:18 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[09-Oct-2025 22:22:55 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[09-Oct-2025 22:30:10 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[09-Oct-2025 23:32:11 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 19:33:24 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 20:00:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ")" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 44
-[14-Oct-2025 20:00:15 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ")" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 44
-[14-Oct-2025 20:00:24 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ")" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 44
-[14-Oct-2025 20:00:30 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ")" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 44
-[14-Oct-2025 20:00:40 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ")" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 44
-[14-Oct-2025 20:03:05 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
-[14-Oct-2025 20:03:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
-[14-Oct-2025 20:03:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
-[14-Oct-2025 20:03:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
-[14-Oct-2025 20:03:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
-[14-Oct-2025 20:03:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
-[14-Oct-2025 20:04:04 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
-[14-Oct-2025 20:04:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
-[14-Oct-2025 20:05:09 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 43
-[14-Oct-2025 20:09:40 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:09:42 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:10:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:17:32 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:31:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:31:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:31:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:31:26 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:36:01 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:36:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:36:13 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:36:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:36:14 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:38:27 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:38:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:38:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected token ";" in C:\xampp\htdocs\ecommerceg2\views\template.php on line 41
-[14-Oct-2025 20:57:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 20:57:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\navbar.php on line 15
-[14-Oct-2025 20:57:57 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 20:57:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\navbar.php on line 15
-[14-Oct-2025 21:03:56 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 21:04:36 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 21:10:30 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 21:41:24 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 21:42:10 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 21:52:29 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 22:04:31 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 22:42:27 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 22:49:14 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 23:08:13 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 23:15:02 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[14-Oct-2025 23:15:02 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:06 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:07 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:07 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:08 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:11 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:29 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:29 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:29 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 13:32:29 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:47 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:20:48 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:23 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:25 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:28 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
-[15-Oct-2025 14:31:29 Europe/Berlin] PHP Warning:  Undefined array key "HTTPS" in C:\xampp\htdocs\ecommerceg2\Controllers\TemplateController.php on line 9
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:19 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:20 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
+[16-Oct-2025 22:07:52 Europe/Berlin] Error en findByEmail: SQLSTATE[HY000] [1049] Unknown database 'ecommerceg2'

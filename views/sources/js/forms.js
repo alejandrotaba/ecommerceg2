@@ -1,114 +1,97 @@
 /*-------------------------------------------------
-
 SCRIPT PARA VALIDACIÓN DE BOOTSTRAP (4-5)
-
 -------------------------------------------------*/
-
-
- 
 
 // Disable form submissions if there are invalid fields
-
 (function() {
-
   'use strict';
-
   window.addEventListener('load', function() {
-
     // Get the forms we want to add validation styles to
-
     var forms = document.getElementsByClassName('needs-validation');
-
     // Loop over them and prevent submission
-
     var validation = Array.prototype.filter.call(forms, function(form) {
-
       form.addEventListener('submit', function(event) {
-
         if (form.checkValidity() === false) {
-
           event.preventDefault();
-
           event.stopPropagation();
-
         }
-
         form.classList.add('was-validated');
-
       }, false);
-
     });
-
   }, false);
-
 })();
 
-
- 
-
 /*-------------------------------------------------
-
 validar formularios
-
 -------------------------------------------------*/
-
 function validarJs(campo, tipoValidacion) {
-
     if (tipoValidacion === "email") {
-
         let patron = /^(?=.{1,254}$)(?=.{1,64}@)[A-Za-z0-9._%+-]+@([A-Za-z0-9-]+\.)+[A-Za-z]{2,}$/;
 
-
- 
-
         if (!patron.test((campo.target.value || '').trim())) {
-
             $(campo.target).parent().addClass("was-validated");
-
             $(campo.target).parent().children(".invalid-feedback")
-
                 .text("El correo electrónico está mal escrito");
-
             return;
-
         } else {
-
             $(campo.target).parent().removeClass("was-validated");
-
             $(campo.target).parent().children(".invalid-feedback").text("");
-
         }
-
     }
 
-
- 
-
     // if (tipoValidacion === "password") {
-
     //     let patron = /^(?=.{1,254}$)(?=.{1,64}@)[A-Za-z0-9._%+-]+@([A-Za-z0-9-]+\.)+[A-Za-z]{2,}$/;
 
+    //     if (!patron.test((campo.target.value || '').trim())) {
+    //         $(campo.target).parent().addClass("was-validated");
+    //         $(campo.target).parent().children(".invalid-feedback")
+    //             .text("El correo electrónico está mal escrito");
+    //         return;
+    //     } else {
+    //         $(campo.target).parent().removeClass("was-validated");
+    //         $(campo.target).parent().children(".invalid-feedback").text("");
+    //     }
+    // }
+}
+
+function recordarEmail(event){
+
+  const emailInput = document.querySelector('[name=emailAdmin]');
+
+  const rememberCheckbox = event.target;
+
 
  
 
-    //     if (!patron.test((campo.target.value || '').trim())) {
+  if(rememberCheckbox.checked){
 
-    //         $(campo.target).parent().addClass("was-validated");
+    //guardamos el email y el estado del chechbox
 
-    //         $(campo.target).parent().children(".invalid-feedback")
+    localStorage.setItem("emailAdmin", emailInput.value.trim());
 
-    //             .text("El correo electrónico está mal escrito");
+    localStorage.setItem("checked", "true");
 
-    //         return;
+  }else{
 
-    //     } else {
+    localStorage.removeItem("emailAdmin");
 
-    //         $(campo.target).parent().removeClass("was-validated");
+    localStorage.removeItem("checked");
 
-    //         $(campo.target).parent().children(".invalid-feedback").text("");
-
-    //     }
-
-    // }
+  }
 
 }
+
+function getmail(){
+  const emailStored = localStorage.getItem("emailAdmin");
+  const rememberState = localStorage.getItem("checked");
+
+  if (emailStored) {
+    document.querySelector('[name=emailAdmin]').value = emailStored;
+  }
+
+  if (rememberState) {
+    document.querySelector('#remember').checked = true;
+  }
+}
+
+getmail();
