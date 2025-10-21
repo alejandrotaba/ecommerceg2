@@ -104,3 +104,29 @@
 [15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
 [15-Oct-2025 23:10:21 Europe/Berlin] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in C:\xampp\htdocs\ecommerceG2\Controllers\AdminsController.php on line 61
 [16-Oct-2025 22:07:52 Europe/Berlin] Error en findByEmail: SQLSTATE[HY000] [1049] Unknown database 'ecommerceg2'
+[21-Oct-2025 23:10:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:10:39 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:10:40 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:10:45 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:10:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:10:50 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:10:51 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:10:52 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:12:42 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:12:42 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:12:43 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:16:10 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:16:10 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:16:11 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:16:20 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:16:22 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:16:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:16:25 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:26:02 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 99
+[21-Oct-2025 23:26:03 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 99
+[21-Oct-2025 23:26:32 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:26:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:26:47 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 50
+[21-Oct-2025 23:26:48 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 50
+[21-Oct-2025 23:26:54 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
+[21-Oct-2025 23:26:55 Europe/Berlin] PHP Parse error:  syntax error, unexpected token "endif", expecting end of file in C:\xampp\htdocs\ecommerceg2\views\modules\aside.php on line 40
