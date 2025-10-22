@@ -1,5 +1,3 @@
-datatables.net/examples/index
-
 <div class="content">
     <div class="container">
         <div class="card">
@@ -51,3 +49,7 @@ datatables.net/examples/index
         </div>
     </div>
 </div>
+
+
+<script>
+    $(document).ready(function)
