@@ -39,19 +39,19 @@ function validarJs(campo, tipoValidacion) {
         }
     }
 
-    // if (tipoValidacion === "password") {
-    //     let patron = /^(?=.{1,254}$)(?=.{1,64}@)[A-Za-z0-9._%+-]+@([A-Za-z0-9-]+\.)+[A-Za-z]{2,}$/;
+    if (tipoValidacion === "password") {
+        let patron = /^(?=.{1,254}$)(?=.{1,64}@)[A-Za-z0-9._%+-]+@([A-Za-z0-9-]+\.)+[A-Za-z]{2,}$/;
 
-    //     if (!patron.test((campo.target.value || '').trim())) {
-    //         $(campo.target).parent().addClass("was-validated");
-    //         $(campo.target).parent().children(".invalid-feedback")
-    //             .text("El correo electrónico está mal escrito");
-    //         return;
-    //     } else {
-    //         $(campo.target).parent().removeClass("was-validated");
-    //         $(campo.target).parent().children(".invalid-feedback").text("");
-    //     }
-    // }
+        if (!patron.test((campo.target.value || '').trim())) {
+            $(campo.target).parent().addClass("was-validated");
+            $(campo.target).parent().children(".invalid-feedback")
+                .text("La contraseña está mal escrito");
+            return;
+        } else {
+            $(campo.target).parent().removeClass("was-validated");
+            $(campo.target).parent().children(".invalid-feedback").text("");
+        }
+    }
 }
 
 /*-------------------------------------------------
