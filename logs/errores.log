@@ -1,10 +1,2 @@
-[22-Oct-2025 14:06:17 Europe/Berlin] PHP Warning:  session_start(): open(C:\xampp\tmp\sess_iutkn4intsd643dbrh68fqt571, O_RDWR) failed: Permission denied (13) in C:\xampp\htdocs\ecommerceG2\index.php on line 19
-[22-Oct-2025 14:06:17 Europe/Berlin] PHP Warning:  session_start(): Failed to read session data: files (path: C:\xampp\tmp) in C:\xampp\htdocs\ecommerceG2\index.php on line 19
-[23-Oct-2025 23:09:42 Europe/Berlin] PHP Warning:  Undefined variable $url in C:\xampp\htdocs\ecommerceg2\views\pages\admin\administradores\administradores.php on line 35
-[23-Oct-2025 23:15:13 Europe/Berlin] PHP Warning:  Undefined variable $url in C:\xampp\htdocs\ecommerceg2\views\pages\admin\administradores\administradores.php on line 35
-[23-Oct-2025 23:15:30 Europe/Berlin] PHP Warning:  Undefined variable $url in C:\xampp\htdocs\ecommerceg2\views\pages\admin\administradores\administradores.php on line 35
-[23-Oct-2025 23:16:54 Europe/Berlin] PHP Warning:  Undefined variable $url in C:\xampp\htdocs\ecommerceg2\views\pages\admin\administradores\administradores.php on line 35
-[23-Oct-2025 23:30:45 Europe/Berlin] PHP Warning:  Undefined variable $url in C:\xampp\htdocs\ecommerceg2\views\pages\admin\administradores\administradores.php on line 35
-[28-Oct-2025 21:07:01 Europe/Berlin] Error en findByEmail: SQLSTATE[HY000] [2002] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
-[28-Oct-2025 21:19:20 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\ecommerceg2\views\modules\top.php:1) in C:\xampp\htdocs\ecommerceg2\views\pages\admin\login\login.php on line 5
-[28-Oct-2025 21:19:29 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\ecommerceg2\views\modules\top.php:1) in C:\xampp\htdocs\ecommerceg2\views\pages\admin\login\login.php on line 5
+[29-Oct-2025 20:57:43 Europe/Berlin] PHP Warning:  Undefined array key "passwordAdmin" in C:\xampp1\htdocs\ecommerce-cesar\Controllers\AdminsController.php on line 15
+[29-Oct-2025 20:57:43 Europe/Berlin] PHP Deprecated:  trim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp1\htdocs\ecommerce-cesar\Controllers\AdminsController.php on line 15

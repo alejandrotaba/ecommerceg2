@@ -19,28 +19,25 @@
     <!-- /.content-header -->
 
     <?php
-    if(!empty(
-      $arrayRutas[2])){
+
+      if(!empty($arrayRutas[2])){
+
         if(
           $arrayRutas[2] == "listado" ||
           $arrayRutas[2] == "creacion" ||
           $arrayRutas[2] == "editar"
-
         ){
           include "modulos/".$arrayRutas[2].".php";
-
-        }else{
-          echo '
-            <script>
-             window.location= "'.$url.'404";
+        }
+        else{
+          echo '<script>
+              window.location= "'.$path.'404";
             </script>';
         }
+      }else{
+        include "modulos/listado.php";
+      }
 
-    }else{
-      include "modulos/listado.php";
-
-    }
-      
     ?>
 
   </div>

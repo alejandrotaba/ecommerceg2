@@ -87,8 +87,7 @@
               <li class="nav-item">
                 <a href="/admin/mensajes" class="nav-link <?php if(!empty($arrayRutas[1]) && $arrayRutas[1] === "mensajes"):?> active <?php endif ?>">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>
-                    Mensajes
+                  <p>Mensajes
                     <span class="right badge badge-danger">3</span>
                   </p>
                 </a>
@@ -110,8 +109,7 @@
               <li class="nav-item">
                 <a href="/admin/pedidos" class="nav-link <?php if(!empty($arrayRutas[1]) && $arrayRutas[1] === "pedidos"):?> active <?php endif ?>">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>
-                    Pedidos
+                  <p>Pedidos
                     <span class="right badge badge-success">5</span>
                   </p>
                 </a>
@@ -125,14 +123,17 @@
               <li class="nav-item">
                 <a href="/admin/disputas" class="nav-link <?php if(!empty($arrayRutas[1]) && $arrayRutas[1] === "disputas"):?> active <?php endif ?>">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>
-                    Disputas
+                  <p>Disputas
+
                     <span class="right badge badge-danger">3</span>
                   </p>
                 </a>
               </li>
             </ul>
           </li>
+
+
+      
 
           <!-- Cerrar Sesión -->
           <li class="nav-item">

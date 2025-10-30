@@ -1,7 +1,8 @@
-/*-----------------------------------
-GRID & LIST
------------------------------------*/
-$(document).on("click",".btnView", function(){
+// ======================================
+// grid y list
+//=======================================
+
+$(document).on("click",".btnView",function(){
 
     let type = $(this).attr("attr-type");
     let btnType = $("[attr-type]");
@@ -12,18 +13,17 @@ $(document).on("click",".btnView", function(){
         $(".list-" + index).show();
     }
 
-    if(type == "grid"){
+     if(type == "grid"){
         $(".grid-" + index).show();
         $(".list-" + index).hide();
     }
 
     btnType.each(function(i){
-
-        if($(btnType[i]).attr("attr-index")== index){
+        if($(btnType[i]).attr("attr-index") == index){
             $(btnType[i]).removeClass("bg-info");
         }
     })
 
-    $(this).addClass("bg-info")
+    $(this).addClass("bg-info");
 
 })
